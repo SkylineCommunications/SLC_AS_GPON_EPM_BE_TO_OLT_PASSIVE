@@ -55,9 +55,9 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 
 using Skyline.DataMiner.Automation;
-using Skyline.DataMiner.Library.Common.InterAppCalls.CallBulk;
-using Skyline.DataMiner.Library.Common.InterAppCalls.CallSingle;
-using Skyline.DataMiner.Library.Common.InterAppCalls.Shared;
+using Skyline.DataMiner.Core.InterAppCalls.Common.CallBulk;
+using Skyline.DataMiner.Core.InterAppCalls.Common.CallSingle;
+using Skyline.DataMiner.Core.InterAppCalls.Common.Shared;
 
 /// <summary>
 /// DataMiner Script Class.
