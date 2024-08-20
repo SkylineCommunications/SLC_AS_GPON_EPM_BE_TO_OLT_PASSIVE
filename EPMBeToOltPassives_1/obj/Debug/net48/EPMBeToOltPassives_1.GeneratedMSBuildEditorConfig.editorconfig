@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = EPMBeToOltPassives_1
-build_property.ProjectDir = C:\GitHub\Skyline\SLC_AS_GPON_EPM_BE_TO_OLT_PASSIVE\EPMBeToOltPassives_1\
+build_property.ProjectDir = C:\GIT Repositories\EPM Automations\SLC_AS_GPON_EPM_BE_TO_OLT_PASSIVE\EPMBeToOltPassives_1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
