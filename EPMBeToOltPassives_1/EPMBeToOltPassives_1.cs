@@ -46,6 +46,7 @@ Revision History:
 DATE		VERSION		AUTHOR			COMMENTS
 
 dd/mm/2022	1.0.0.1		DPR, Skyline	Initial version
+dd/mm/2022	1.0.0.2		DPR, Skyline	Upgrade NuGets Interapp
 ****************************************************************************
 */
 
